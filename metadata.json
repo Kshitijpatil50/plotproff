@@ -1,0 +1,6 @@
+{
+  "name": "PlotProof",
+  "description": "Verified land plot cadastre and decentralized title deed registry on Monad with cryptographic boundary hashes and chain of title.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
