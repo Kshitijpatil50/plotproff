@@ -458,14 +458,6 @@ These limitations are not reasons to abandon the concept. They define the next e
 
 ---
 
-## 👥 Team
-
-**Team PlotProof**
-
-* TODO — Team Member 1
-* TODO — Team Member 2
-* TODO — Team Member 3
-
 Built for **Monad Blitz Pune V3 · October 10, 2026**.
 
 Original project work created for the event.
